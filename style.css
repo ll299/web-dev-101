@@ -1,0 +1,16 @@
+h1 {
+    color: green;    
+}
+
+#title {
+    color: red;
+}
+
+.subtitle {
+    color: blue;
+    text-decoration: underline;
+}
+  
+.larger {
+    font-size: large;
+}
